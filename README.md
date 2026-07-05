@@ -140,10 +140,3 @@ This project demonstrates:
 
 **Swathi Kumar**
 
-GitHub: https://github.com/your-username
-
----
-
-## 📄 License
-
-This project is created for educational and learning purposes.
