@@ -47,31 +47,6 @@ Banking-System/
 │── README.md
 ```
 
----
-
-## 🚀 How to Run
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/your-username/Banking-System.git
-```
-
-2. Open the project in any Java IDE (Eclipse, IntelliJ IDEA, VS Code, or NetBeans).
-
-3. Compile the program
-
-```bash
-javac Main.java
-```
-
-4. Run the program
-
-```bash
-java Main
-```
-
----
 
 ## 📖 Menu Options
 
